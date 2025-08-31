@@ -8,6 +8,7 @@
 * Tested, ADDER15 - Test cases work
 * Finished ALU15 - Need to test it and check for any miswires
 * Finished REG15 - Need to test it and check for any miswires
+* Tested ALU 15 - So far no miswiring
   
 
 ## Known Issues
