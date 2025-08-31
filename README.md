@@ -4,7 +4,7 @@
 * Student 2: Sravya Kota (919987625)
 
 ## Project Status
-
+* Started the Project, Finished Adder15
 
 ## Known Issues
 
