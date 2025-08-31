@@ -4,9 +4,10 @@
 * Student 2: Sravya Kota (919987625)
 
 ## Project Status
-* Started the Project, Finished Adder15
-* Tested, Adder15 - Test cases work
-* Finished ALU15 - Need to test it
+* Started the Project, Finished ADDER15
+* Tested, ADDER15 - Test cases work
+* Finished ALU15 - Need to test it and check for any miswires
+* Finished REG15 - Need to test it and check for any miswires
   
 
 ## Known Issues
