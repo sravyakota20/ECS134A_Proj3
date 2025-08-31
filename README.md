@@ -6,6 +6,8 @@
 ## Project Status
 * Started the Project, Finished Adder15
 * Tested, Adder15 - Test cases work
+* Finished ALU15 - Need to test it
+  
 
 ## Known Issues
 
