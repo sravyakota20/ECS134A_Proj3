@@ -11,7 +11,8 @@
 * Tested ALU 15 - So far no miswiring
 * Tested REG15 - No miswiring
 * Finished IMM15 - Need to test and check for miswiring
-  
+* Finished decoder15 need to debug (I think I missed some logic can't seem to find it asked my partner to look it over)
+* Finished CPU need to test for miswires and debug
 
 ## Known Issues
 
