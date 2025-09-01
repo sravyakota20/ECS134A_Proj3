@@ -15,7 +15,7 @@
 * Finished CPU need to test for miswires and debug
 
 ## Known Issues
-
+* Some kind of logic is wrong with the decoder need to debug/ check for miswires and logic
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
