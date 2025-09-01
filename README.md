@@ -9,7 +9,8 @@
 * Finished ALU15 - Need to test it and check for any miswires
 * Finished REG15 - Need to test it and check for any miswires
 * Tested ALU 15 - So far no miswiring
-* Tested REG15 - No miswiring 
+* Tested REG15 - No miswiring
+* Finished IMM15 - Need to test and check for miswiring
   
 
 ## Known Issues
