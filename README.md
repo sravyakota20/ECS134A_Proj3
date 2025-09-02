@@ -169,9 +169,6 @@ Kinda followed ChatGPT's method, and looked through pdf of assignment to underst
 
 Implemented mini ROMS per field so it breaks it down and organizes the circuit better. It was easier to go back and debug as well once I understood what I was doing and where I was messing up.  
 
-Perfect — here’s your **splitter-focused prompts/responses with “Changes” sections** in the same style as your interrupts example. You can drop these straight into your log to show that you only used AI in a minimal, guided way and then made your own decisions.
-
-
 
 ### Prompt 9
 
