@@ -20,6 +20,9 @@
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
 * [Some other link](https://stackoverflow.com)
+* [CPU building basics: ALU](https://www.youtube.com/watch?v=9Cgd9FvWTlc&list=PLzTuuMapW9aAXbf9Ku9zIUj4JODzsnduM&index=4&ab_channel=Ajax)
+* [CPU building basics: FLAG](https://www.youtube.com/watch?v=-tujFuPL7Ms&list=PLzTuuMapW9aAXbf9Ku9zIUj4JODzsnduM&index=5&ab_channel=Ajax)
+* [Logism Tutorial (Needed help with building tunnels)](https://www.youtube.com/watch?v=cMz7wyY_PxE&ab_channel=BarryBrown)
 
 * After failing to understand the purpose of tunnels this video made me understand that (https://www.youtube.com/watch?v=FDL2cpinIEE)
 * this really helped me in building the circuit but I changed things in the given circuit accordingly maybe found a better way to build it and stuff like that (https://hackaday.io/project/131983/logs?sort=oldest&utm_)
