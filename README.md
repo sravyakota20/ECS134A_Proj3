@@ -22,6 +22,7 @@
 * [Some other link](https://stackoverflow.com)
 
 * After failing to understand the purpose of tunnels this video made me understand that (https://www.youtube.com/watch?v=FDL2cpinIEE)
+* this really helped me in building the circuit but I changed things in the given circuit accordingly maybe found a better way to build it and stuff like that (https://hackaday.io/project/131983/logs?sort=oldest&utm_)
   
 
 ## Generative AI Use
