@@ -135,6 +135,16 @@ How to implement a CPU decoder without messy gates causing problems in the wirin
 ### Response 8
 Two popular patterns: (a) combinational logic that directly maps opcode→controls, or (b) a tiny control ROM (microcode-ish) indexed by opcode that outputs control fields (ALUOP, ASEL, BSEL, REGW, etc.). ROM keeps things organized and easy to tweak.
 
+### Prompt 9
+What do the Splitter settings mean in my IMM15 and how can I manipulate the bits?
+
+### Response 9
+
+“Bit Width In = 15” means the wide side is my 15-bit IMM. “Fan Out = 13” means I’m feeding that bus from 13 small inputs (some single-bit, some multi-bit groups). The lines “Bit i = k (↑Top)” map IMM position i to small input k. I deliberately mapped the top few IMM positions to the same small input to replicate a single bit (for sign-extension), then mapped the remaining IMM positions to the field bits and, at the bottom, to constants for shifting.
+
+### Changes 9
+
+Used this information to manipulate the bits by making some values high and the others low so it reaches the bounds I want for the specific splitter.
 
 
 
