@@ -12,7 +12,7 @@
 * Tested REG15 - No miswiring
 * Finished IMM15 - Need to test and check for miswiring
 * Finished decoder15 need to debug (I think I missed some logic can't seem to find it asked my partner to look it over)
-* Finished CPU need to test for miswires and debug
+* Finished CPU need to test for miswires and debug (missed alot of wiring that we planned to do finished them now)
 
 ## Known Issues
 * Some kind of logic is wrong with the decoder need to debug/ check for miswires and logic (regw) specifically
@@ -23,7 +23,7 @@
 * [CPU building basics: ALU](https://www.youtube.com/watch?v=9Cgd9FvWTlc&list=PLzTuuMapW9aAXbf9Ku9zIUj4JODzsnduM&index=4&ab_channel=Ajax)
 * [CPU building basics: FLAG](https://www.youtube.com/watch?v=-tujFuPL7Ms&list=PLzTuuMapW9aAXbf9Ku9zIUj4JODzsnduM&index=5&ab_channel=Ajax)
 * [Logism Tutorial (Needed help with building tunnels)](https://www.youtube.com/watch?v=cMz7wyY_PxE&ab_channel=BarryBrown)
-* (https://stackoverflow.com/questions/78335771/how-can-i-implement-the-overflow-flag-in-logisim-without-having-access-to-the-se?utm)  Used the link to understand the ALU (ALU was the most important and confusing part for me and my partner,  we had to go through so many videos and article and even use AI to understand it and do it, ity was tricky but we were able to pull it off.)
+* (https://stackoverflow.com/questions/78335771/how-can-i-implement-the-overflow-flag-in-logisim-without-having-access-to-the-se?utm)  Used the link to understand the ALU (ALU was the most important and confusing part for me and my partner,  we had to go through so many videos and article and even use AI to understand it and do it, it was tricky but we were able to pull it off.)
 
 * After failing to understand the purpose of tunnels this video made me understand that (https://www.youtube.com/watch?v=FDL2cpinIEE)
 * this really helped me in building the circuit but I changed things in the given circuit accordingly maybe found a better way to build it and stuff like that (https://hackaday.io/project/131983/logs?sort=oldest&utm_)
