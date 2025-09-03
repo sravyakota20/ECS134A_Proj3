@@ -253,7 +253,7 @@ What’s the safest splitter configuration to fan out A and B so both the arithm
 
 ### Changes 12
 
-No major changes — I just oriented my splitters differently (left-to-right instead of top-down) so the wiring was less messy.
+No major changes. I just oriented my splitters differently (left-to-right instead of top-down) so the wiring was less messy.
 
 
 
